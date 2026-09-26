@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
