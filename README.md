@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
 ## Greedy
@@ -37,9 +38,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
