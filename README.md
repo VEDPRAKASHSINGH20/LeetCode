@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
