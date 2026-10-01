@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 ## Design
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
