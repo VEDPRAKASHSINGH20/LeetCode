@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 ## Design
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
