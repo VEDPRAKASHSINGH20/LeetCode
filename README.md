@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
