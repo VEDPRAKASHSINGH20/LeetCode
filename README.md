@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 ## Simulation
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Memoization
 |  |
 | ------- |
