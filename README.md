@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
