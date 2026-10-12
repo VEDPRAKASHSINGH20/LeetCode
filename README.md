@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
