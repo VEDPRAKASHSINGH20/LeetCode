@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
