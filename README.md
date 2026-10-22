@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0137-single-number-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0137-single-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bracket Sequences
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
 ## Matrix
 |  |
