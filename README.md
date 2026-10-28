@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
