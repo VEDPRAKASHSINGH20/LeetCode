@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hungarian Algorithm
 |  |
