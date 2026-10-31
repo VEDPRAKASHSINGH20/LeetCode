@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
