@@ -20,6 +20,14 @@ public:
             }
         }
         return ele;
-        
+        int ans=nums[0];
+        for(int i = 1; i < nums.size(); i++) {
+            if(abs(nums[i]) < abs(ans)) {
+                ans = nums[i];
+            }
+            else if(abs(nums[i]) == abs(ans) && nums[i] > ans) {
+                ans = nums[i];
+            }
+        }
     }
 };
