@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0680-valid-palindrome-ii) |
