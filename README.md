@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
