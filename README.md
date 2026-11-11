@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0867-transpose-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0867-transpose-matrix) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
