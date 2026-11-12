@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0941-valid-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
