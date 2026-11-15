@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0189-rotate-array) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
