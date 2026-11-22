@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Design
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
