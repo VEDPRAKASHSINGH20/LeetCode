@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4044-count-good-cyclic-rotations](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Greedy
 |  |
 | ------- |
@@ -328,8 +329,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [4044-count-good-cyclic-rotations](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [4044-count-good-cyclic-rotations](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
