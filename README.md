@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0680-valid-palindrome-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4044-count-good-cyclic-rotations](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/4044-count-good-cyclic-rotations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
