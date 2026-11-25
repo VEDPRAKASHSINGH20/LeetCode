@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0941-valid-mountain-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0941-valid-mountain-array) |
 | [1029-two-city-scheduling](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1748-sum-of-unique-elements](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VEDPRAKASHSINGH20/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
